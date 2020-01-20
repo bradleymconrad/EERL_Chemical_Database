@@ -6,6 +6,69 @@ Others
   :depth: 1
   :local:
 
+**************
+Carbon Dioxide
+**************
+
+.. list-table::
+  :widths: 25 75
+  :align: center
+
+  * - Location:
+    - | ME 2360 & Outside ME
+      | Flare Pit Fuel Manifold & Storage Cage
+  * - Vessel:
+    - | Pressurized Cylinder
+  * - | Emergency
+      | Contact:
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
+  * - MSDS:
+    - :download:`pdf <../../SDS_repository/Carbon Dioxide.pdf>`
+
+******
+Helium
+******
+
+.. list-table::
+  :widths: 25 75
+  :align: center
+
+  * - Location:
+    - | ME 2360
+      | Flare
+  * - Vessel:
+    - | Pressurized Cylinder
+  * - | Emergency
+      | Contact:
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
+  * - MSDS:
+    - :download:`pdf <../../SDS_repository/Helium.pdf>`
+
+********
+Nitrogen
+********
+
+.. list-table::
+  :widths: 25 75
+  :align: center
+
+  * - Location:
+    - | ME 2360 & Outside ME
+      | Flare Pit Fuel Manifold & Storage Cage
+  * - Vessel:
+    - | Pressurized Cylinder
+  * - | Emergency
+      | Contact:
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
+  * - MSDS:
+    - :download:`pdf <../../SDS_repository/Nitrogen.pdf>`
+
 ****************
 Nitrogen Dioxide
 ****************
@@ -18,31 +81,12 @@ Nitrogen Dioxide
     - | ME 2360
       | Solid-phase Instruments
   * - Vessel:
-    - | Pressurize Cylinder (180 ppm in N2)
+    - | Pressurized Cylinder (180 ppm in N2) & Pressurized Cylinder (500 ppm in N2)
   * - | Emergency
       | Contact:
-    - | Brad Conrad
-      | Brad.conrad@carleton.ca
-      | 613-884-9895
-  * - MSDS:
-    - :download:`pdf <../../SDS_repository/Nitrogen Dioxide.pdf>`
-
-
-
-.. list-table::
-  :widths: 25 75
-  :align: center
-
-  * - Location:
-    - | ME 2360
-      | Solid-phase Instruments
-  * - Vessel:
-    - | Pressurize Cylinder (500 ppm in N2)
-  * - | Emergency
-      | Contact:
-    - | Brad Conrad
-      | Brad.conrad@carleton.ca
-      | 613-884-9895
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Nitrogen Dioxide.pdf>`
 
@@ -61,9 +105,9 @@ Sodium Chloride
     - | Plastic Container (1 kg)
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Sodium Chloride.pdf>`
 
@@ -77,32 +121,13 @@ Sucrose
 
   * - Location:
     - | ME 2360
-      | Flare Pit Desk
+      | Flare Pit Desk & Old LII Cabinet
   * - Vessel:
-    - | Plastic Container (500 g)
+    - | Plastic Container (500 g) & Glass Jar of 1% m/m aqueous solution
   * - | Emergency
       | Contact:
-    - | Brad Conrad
-      | Brad.conrad@carleton.ca
-      | 613-884-9895
-  * - MSDS:
-    - :download:`pdf <../../SDS_repository/Sucrose.pdf>`
-
-
-
-.. list-table::
-  :widths: 25 75
-  :align: center
-
-  * - Location:
-    - | ME 2360
-      | Old LII Cabinet
-  * - Vessel:
-    - | Glass Jar (1 L) - 1% w/w aqueous solution
-  * - | Emergency
-      | Contact:
-    - | Brad Conrad
-      | Brad.conrad@carleton.ca
-      | 613-884-9895
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Sucrose.pdf>`

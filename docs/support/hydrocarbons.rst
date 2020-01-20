@@ -16,16 +16,39 @@ Acetylene
 
   * - Location:
     - | ME 2360 & Outside ME
-      | Flare Pit Fuel Manifold
+      | Flare Pit Fuel Manifold & Storage Cage
   * - Vessel:
-    - | Pressurize Cylinder
+    - | Pressurized Cylinder
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Acetylene.pdf>`
+
+*********
+Butadiene
+*********
+
+.. list-table::
+  :widths: 25 75
+  :align: center
+
+  * - Location:
+    - | ME2360
+      | Flare: Instrument Cluster
+  * - Vessel:
+    - | Pressurized Cylinder (small)
+  * - | Emergency
+      | Contact:
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
+  * - Notes:
+    - tiny cylinder below knee height
+  * - MSDS:
+    - :download:`pdf <../../SDS_repository/Butadiene.pdf>`
 
 *******
 Butanes
@@ -37,14 +60,14 @@ Butanes
 
   * - Location:
     - | ME 2360 & Outside ME
-      | Flare Pit Fuel Manifold
+      | Flare Pit Fuel Manifold & Storage Cage
   * - Vessel:
-    - | Pressurize Cylinder
+    - | Pressurized Cylinder
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Butanes.pdf>`
 
@@ -58,14 +81,14 @@ Butylene
 
   * - Location:
     - | ME 2360 & Outside ME
-      | Flare Pit Fuel Manifold
+      | Flare Pit Fuel Manifold & Storage Cage
   * - Vessel:
-    - | Pressurize Cylinder
+    - | Pressurized Cylinder
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - Notes:
     - A.K.A. trans-2-butene or 1-butene
   * - MSDS:
@@ -81,14 +104,14 @@ Ethane
 
   * - Location:
     - | ME 2360 & Outside ME
-      | Flare Pit Fuel Manifold
+      | Flare Pit Fuel Manifold & Storage Cage
   * - Vessel:
-    - | Pressurize Cylinder
+    - | Pressurized Cylinder
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Ethane.pdf>`
 
@@ -102,14 +125,14 @@ Ethylene
 
   * - Location:
     - | ME 2360 & Outside ME
-      | Flare Pit Fuel Manifold
+      | Flare Pit Fuel Manifold & Storage Cage
   * - Vessel:
-    - | Pressurize Cylinder
+    - | Pressurized Cylinder
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Ethylene.pdf>`
 
@@ -123,33 +146,14 @@ Heptanes
 
   * - Location:
     - | ME 2360
-      | Blue Ventilated Cabinet
+      | Blue Ventilated Cabinet & Yellow HazMat Storage Cabinet
   * - Vessel:
-    - | Pressurized Liquid Fuel Container (4 L?)
+    - | Pressurized Liquid Fuel Container & Glass Jar or Metal Container
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
-  * - MSDS:
-    - :download:`pdf <../../SDS_repository/Heptanes.pdf>`
-
-
-
-.. list-table::
-  :widths: 25 75
-  :align: center
-
-  * - Location:
-    - | ME 2360
-      | Yellow HazMat Storage Cabinet
-  * - Vessel:
-    - | Glass Jar or Metal Container (4 L)
-  * - | Emergency
-      | Contact:
-    - | Brad Conrad
-      | Brad.conrad@carleton.ca
-      | 613-884-9895
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Heptanes.pdf>`
 
@@ -163,33 +167,14 @@ Hexanes
 
   * - Location:
     - | ME 2360
-      | Blue Ventilated Cabinet
+      | Blue Ventilated Cabinet & Yellow HazMat Storage Cabinet
   * - Vessel:
-    - | Pressurized Liquid Fuel Container (4 L?)
+    - | Pressurized Liquid Fuel Container & Glass Jar or Metal Container
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
-  * - MSDS:
-    - :download:`pdf <../../SDS_repository/Hexanes.pdf>`
-
-
-
-.. list-table::
-  :widths: 25 75
-  :align: center
-
-  * - Location:
-    - | ME 2360
-      | Yellow HazMat Storage Cabinet
-  * - Vessel:
-    - | Glass Jar or Metal Container (4 L)
-  * - | Emergency
-      | Contact:
-    - | Brad Conrad
-      | Brad.conrad@carleton.ca
-      | 613-884-9895
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Hexanes.pdf>`
 
@@ -203,14 +188,14 @@ Methane
 
   * - Location:
     - | ME 2360 & Outside ME
-      | Flare Pit Fuel Manifold
+      | Flare Pit Fuel Manifold & Storage Cage
   * - Vessel:
-    - | Pressurize Cylinder
+    - | Pressurized Cylinder
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Methane.pdf>`
 
@@ -224,33 +209,14 @@ Pentanes
 
   * - Location:
     - | ME 2360
-      | Blue Ventilated Cabinet
+      | Blue Ventilated Cabinet & Yellow HazMat Storage Cabinet
   * - Vessel:
-    - | Pressurized Liquid Fuel Container (4 L?)
+    - | Pressurized Liquid Fuel Container & Glass Jar or Metal Container
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
-  * - MSDS:
-    - :download:`pdf <../../SDS_repository/Pentanes.pdf>`
-
-
-
-.. list-table::
-  :widths: 25 75
-  :align: center
-
-  * - Location:
-    - | ME 2360
-      | Yellow HazMat Storage Cabinet
-  * - Vessel:
-    - | Glass Jar or Metal Container (4 L)
-  * - | Emergency
-      | Contact:
-    - | Brad Conrad
-      | Brad.conrad@carleton.ca
-      | 613-884-9895
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Pentanes.pdf>`
 
@@ -264,14 +230,14 @@ Propane
 
   * - Location:
     - | ME 2360 & Outside ME
-      | Flare Pit Fuel Manifold
+      | Flare Pit Fuel Manifold & Storage Cage
   * - Vessel:
-    - | Pressurize Cylinder
+    - | Pressurized Cylinder
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Propane.pdf>`
 
@@ -285,13 +251,13 @@ Propylene
 
   * - Location:
     - | ME 2360 & Outside ME
-      | Flare Pit Fuel Manifold
+      | Flare Pit Fuel Manifold & Storage Cage
   * - Vessel:
-    - | Pressurize Cylinder
+    - | Pressurized Cylinder
   * - | Emergency
       | Contact:
-    - | Melina Jefferson
-      | Melina.Jefferson@canada.ca
-      | 613-314-0555
+    - | Alex Szekeres
+      | Alex.Szekeres@carleton.ca
+      | 613-520-2600 x1766
   * - MSDS:
     - :download:`pdf <../../SDS_repository/Propylene.pdf>`
